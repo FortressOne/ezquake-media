@@ -49,8 +49,7 @@ game/skins/player_purple.png		PrimeviL	CC-BY-NC-SA_3.0	-
 game/skins/player_red.png		PrimeviL	CC-BY-NC-SA_3.0	-
 game/skins/player_white.png		PrimeviL	CC-BY-NC-SA_3.0	-
 game/skins/player_yellow.png		PrimeviL	CC-BY-NC-SA_3.0	-
-game/textures/charsets/moondid2.png	Moon[Drunk]	unknown	-
-game/textures/charsets/povo5.png	Povohat		unknown	-
+game/textures/charsets/darkstorm.png	darkstorm		unknown	-
 game/textures/chaticons.png		RaRe/Up2nOgOoD[ROCK]	unknown	-
 game/textures/conpart.png		Cuky	unknown	-
 game/textures/detail.png		unknown	unknown	-
